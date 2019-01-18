@@ -1,0 +1,4 @@
+baseURL = "https://oneeyeodie.com/"
+languageCode = "en-us"
+title = "One Eye Odie - A Game Accessibility Blog"
+theme = "hugo-nederburg-theme"
