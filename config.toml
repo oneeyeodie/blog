@@ -2,3 +2,25 @@ baseURL = "https://oneeyeodie.com/"
 languageCode = "en-us"
 title = "One Eye Odie - A Game Accessibility Blog"
 theme = "hugo-nederburg-theme"
+
+# Nav links in the side bar
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "My Purpose"
+url = "about/"
+weight = 2
+
+[[menu.main]]
+name = "Get In Touch"
+url = "contact/"
+weight = 3
+
+[params.social]
+email = "christopher@oneeyeodie.com"
+twitter = "https://twitter.com/OneEyeOdie"
+youtube = "https://youtube.com"
+rss = true
