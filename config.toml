@@ -14,10 +14,10 @@ name = "My Purpose"
 url = "about/"
 weight = 2
 
-[[menu.main]]
-name = "Get In Touch"
-url = "contact/"
-weight = 3
+#[[menu.main]]
+#name = "Get In Touch"
+#url = "contact/"
+#weight = 3
 
 [params.social]
 email = "christopher@oneeyeodie.com"
