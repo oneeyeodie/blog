@@ -2,6 +2,40 @@ baseURL = "https://oneeyeodie.com/"
 languageCode = "en-us"
 title = "One Eye Odie - A Game Accessibility Blog"
 theme = "hugo-nederburg-theme"
+googleAnalytics = "UA-133282496-1"
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+
+[params]
+  # Unmark to use post folder for images. Default is static folder.
+  #usepostimgfolder = true
+  slogan = "Visually Impaired Gaming Experiences and Thoughts"
+  description = "A blog containing my experiences as a visually impaired gamer that plays gems with game accessiblity in mind. I point out areas that give me problems and try to come up with solutions." # meta description
+  # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
+  #author = "Christopher Odette"
+  #authorLink = "https://oneeyeodie.com"
+  #bio = [
+  #  "Chris is an avid gamer who became visually impaired in late 2017. To Enjoy gaming again he writes about his experiences to understand his new challenges."
+  #]
+  copyright = [
+    "&copy; 2019 Christopher Odette"
+  ]
+
+
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below (it is also used in Gravatar for the bio).
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "christopher@oneeyeodie.com"
+
 
 # Nav links in the side bar
 [[menu.main]]
@@ -10,17 +44,17 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "My Purpose"
+name = "About"
 url = "about/"
 weight = 2
 
-#[[menu.main]]
-#name = "Get In Touch"
-#url = "contact/"
-#weight = 3
+[[menu.main]]
+name = "Contact Me"
+url = "contact/"
+weight = 3
 
 [params.social]
 email = "christopher@oneeyeodie.com"
 twitter = "https://twitter.com/OneEyeOdie"
-youtube = "https://youtube.com"
+youtube = "https://www.youtube.com/channel/UCcofKLyF1pRXuvG-TQeV1KA/featured?disable_polymer=1"
 rss = true

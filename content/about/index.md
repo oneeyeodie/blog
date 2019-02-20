@@ -3,7 +3,7 @@ title: "This Blog's Purpose"
 date: 2019-01-31T12:03:32-05:00
 ---
 
-Hi my name is Christopher. One Eye Odie is a project I’ve started to remove some of the frustration I’ve felt taking part in my favorite pastime. Gaming. By looking at the parts of games that are giving me a hard time and thinking of ways those parts could be reworked or tweaked to alleviate some if not all of the frustration  does in fact allow me to enjoy gaming once again.
+Hi, my name is Christopher. One Eye Odie is a project I’ve started to remove some of the frustration I’ve felt taking part in my favorite pastime. Gaming. By looking at the parts of games that are giving me a hard time and thinking of ways those parts could be reworked or tweaked to alleviate some if not all of the frustration  does in fact allow me to enjoy gaming once again.
 
 I’ve recently lost quite a bit of my field of vision, blind in my left eye and in my right eye blind in about the top 3rd of my field of vision. This happened a little over a year before figuring out the idea for this blog.
 
