@@ -1,7 +1,7 @@
 ---
 title: "Crawl Acessibility Review"
-date: 2019-02-08T12:00:00-05:00
-draft: true
+date: 2019-03-29T12:00:00-05:00
+draft: false
 image: "img/portfolio/CrawlStill.png"
 showonlyimage: false
 ---
@@ -17,13 +17,27 @@ It was exciting. I was paying attention to details I never thought about before 
 
 ### Great Text Handling ###
 
+The text for the opening game menus and every menu was large, clear and easy to read with my limited field of vision. That's pretty much all I can say about the game menus, then again I have never come across a game menu that was difficult to read before. I kind of want to find one that is difficult now.
+
+> Example image of a menu.
+
+> ![Menu Example](/img/CrawlImages/01_menu_example.png)
+
 I first encountered the text that popped up on screen during the tutorial. The text had nice clean sharp edges so the letters didn’t blur together for me. The text was also, always, on a black background which provided a nice contrast that made the text stand out easily.
 
-One issue with the pop up dialog text boxes, in the turorial, was their inconsistency of their locations. I didn’t notice them right away as they popped up because I was already used to looking for text on the top of the screen. Fortunately they only contained story text that was also voiced over and there was nothing to do but leave the room so gameplay wasn’t affected. The main information text appeared on the top of the screen or the center.
+One minor thing about the text boxes was their placement. Some text boxes in the tutorial were placed next to the element they were explaining and others were placed on the top of the screen. There were only a couple that were placed in areas to start the story that took me a second to focus one because they weren't tied to a certain element nor placed consistently. These few outliers without a consistant anchor didn't affect gameplay for me in any fashion.
 
-One thing that I appreciated were the important words stood out as a bolder color than the est of the text. Key words were written in bright red compared to the rest of the text. This differentiation helped me to understand the rest of the text quickly.
+One thing that I appreciated was the highlighting of important words stood out as a bolder color than the est of the text. Key words were written in bright red compared to the rest of the text. This differentiation helped me to understand the rest of the text quickly.
+
+> Examples of different text and text boxes.
+
+> ![Text and Textbox Examples](/img/CrawlImages/02_text_textbox_example.png)
 
 Colored text was used again in the shop. The different stats used colors, like red and green, that allowed for a glance to see if a weapon was an upgrade or not. The information about the various items were structured similar to each other and the location of the information was consistently placed. This consistancy made it easy for me to find and use the item information at the shops.
+
+> Example of the Shop's text.
+
+> ![Shope Text Example](/img/CrawlImages/03_shop_text_example.png)
 
 The only downside to the font used was the lack of customization. The options to change size, color, and font doesn’t exist. I would have liked being able to increase the size of the font. A larger font would have been easier for me to read and I could have focused more on the gameplay at time where both were active.
 
@@ -41,11 +55,23 @@ The tutorial had shown what I could and could not do as the player. Mainly attac
 
 Of course the tutorial couldn’t show you how to use all of the special attacks a player would come across, but there was one skill that was tricky for me to use. The skill was a rune that orbited around my player. What made it difficult was firing it. The rune could shoot in a different direction than the player faced and moved in. This along with keeping track of where the rune was made it difficult for me to use. I couldn't keep track of the rune, my character and the enemy I was fighting at the same time. I replaced that skill with a bow that fired across the room in the direction I was facing in.
 
+> Example of the rune skill I had a hard time keeping track of.
+
+> ![Hard to Track Rune Skill](/img/CrawlImages/04_rune_skill_example.png)
+
 There was an aiming indicator for the rune ability but that was difficult for me to see during combat. It was a short and thin arrow with a dashed line that didn’t stand out enough unless I focused on looking for it.
 
 This same aiming indicator was also used for most aimed attacks and even though it was hard for me to notice my own the enemy's indicators were easier to notice since I was focused on the enemies. Making my aim indicator stand out more, either by making it slightly larger or adding more contrast to it compared to the rest of the game would have made abilities easier for me to use.
 
+> Example of the arrow used for the Aim Indicator.
+
+> ![Aiming Indicator](/img/CrawlImages/05_aim_indicator_example.png)
+
 Special attacks had an inidactor to let you know when it was ready to use. This ready indicator was a feint white swirl at the player's feet. A second indicator at the player's feet was a bright red circle letting you know that regular attacks were on a cooldown. When comparing the two the regular attack indicator was easy for me to notice. The special attack ready indicator was difficult for me to notice during combat. As a result I didn't use my special attacks as often as I could have. To fix the special attack ready indicator I reccommend the same changes as I mentioned for the aim indicator.
+
+> Examples of the Special Attack is ready and Normal Attacks are on cooldown Indicators, respectively.
+
+> ![Special and Normal Attack Indicators](/img/CrawlImages/06_attack_indicators_example.png)
 
 Interacting with the item shop was easy to figure out. The items were consistently laid out. The weapons, potions, and skill books were always in the same places in each shop. The prices of the items were easy to read and also consistently placed below each item for sale. Other than the ability to change font sizes and colors mentioned in the last section I have no suggestions for improving my interaction with the item shops.
 
@@ -53,17 +79,30 @@ Once the ghosts manage to kill you, the one that did becomes a new hero and you 
 
 The first issue I came across controlling a ghost was keeping track of the ghost I was controlling. My ghost was a different color than the other ghosts, it was the same color as the hero I controlled before becoming a ghost. That helped very little. All of the ghosts were transparent to an extent. That transparency makes the ghost feel like a ghost but it makes it harder to see where the ghost was that I had control of.
 
+> Example of the ghost I controlled (blue) that was hard to keep track of at times.
+
+> ![Controlled Ghost Example](/img/CrawlImages/07_difficult_ghost_example.png)
+
 On top of the transparency the camera moved from room to room base on the hero's movements and there were times that the room changed before I could figure out exactly where the ghost I was in control of was. For this reason playing as a ghost wsa difficult and frustrating for me. An east fix would be to make the ghost I'm controlling stand out more than the other ghosts, by either reducing the transparency of the ghost I was controlling or by adding a contrasting outline to the ghost I was controlling.
 
 There was one way to make finding my ghost easier but it reduced the fun. At four players there were three ghosts and that was where I had the greatest difficulty. At two players there was only one ghost. With one ghost I had no problem finding the one I controlled but I played as a ghost longer because there were less players attacking the hero with me. It was a trade off that worked best with three players. One hero. Two ghosts.
 
 The second issue I had as a ghost was finding the pentagrams that allowed you to summon and control a monster that you could attack the hero with. The pentagrams didn't stand out on the floor unless you were standing on one. They were a slightly darker color than the floor and the lack of contrast made them difficult for me to find short of standing on one. Once you stood on a pentagram as a ghost it glowed and animated with bright red colors.
 
+> Example of an unused and usable Pentagram.
+
+> ![Pentagram Examples](/img/CrawlImages/08_pentagram_examples.png)
+
 More ghosts meant more pentagrams and with more pentagrams I could find them easier. With the computer players on easy they walked over the pentagrams a few times before using them. This helped me find them where there were other ghosts but as the only ghost I would spend time walking back and forth in a systematic way to find the pentagram.
+
 
 To fix the pentagrams I would increase the contrast between them and the floor by increasing the difference in the darkness of the pentagram to the rest of the floor. Another option would beto change the color of the pentagrams by making them red and then adding the animation once a ghost was standing on one.
 
 After using a pentagram to summon a monster I would lose track of it at times durring combat. Some kind of indicator showing which monster I controlled would have helped me avoid getting my monster killed off quickly. Adding a color scheme to the monsters the same way heros and ghosts are colored would have solved this problem for me.
+
+> Example of monsters controlled by two different ghosts.
+
+> ![Multiple Enemy Example](/img/CrawlImages/09_two_enemies_example.png)
  
 Interacting with the game world was based on trade offs. There were times reducing the number of players made game play easier by allowing me to keep track of who I was controlling. There were also things made harder by reducing the number of players such as finding the pentagrams as a ghost. Inversly there were things made easier by increasing the number of players along with other things becoming more difficult.
 
@@ -80,6 +119,10 @@ The keyboard was the first method I tried and movement was easy enough. The arro
 Using the mouse to play the game was a different story. To be honest I didn't play long with the mouse because of the difficulty for me. To start off the mouse cursor was three small squares in the shape of a triangle and the color used for the cursor didn't stand out enough for me. The player moved towards the mouse cursor and the speed that the player moved was based on how far away the mouse was from the character. The ability to move at different speeds was nice compared to the one speed using the keyboard along with moving in more than eight directions.
 
 With the mouse there was a new indicator at the feet of the player as a pretty large arrow pointing towards the mouse cursor but it had the same problems for me as the aiming and special attack ready indicators.
+
+> Image of the mouse cursor (three dot triangle) and the inidcator showing movement direction (large arrow near the player).
+
+> ![Mouse Movement Indicators](/img/CrawlImages/10_mouse_movement_example.png)
 
 Using the mouse to navigate the menus was fine once I found the cursor and kept my focus on the cursor as I moved it around. I could focus my attention on the cursor durring the menus because of the lack of anything else going on at the same time.
 
@@ -105,6 +148,14 @@ I couldn’t find any information about beta testers for this game online. So I 
 
 There were two areas the interface provided information, at the top of the screen and along the bottom. The top was used mainly in the item shop. The bottom was used to give information about the players, such as health and gold for the hero. I rarely spent time looking at the information at the bottom of the screen. There were no customization options for the interface elements. The lack of customization didn't affect my gameplay. When I was in the item shop I could take as much time as I needed to read the information at the top. The player information along the bottom of the screen wasn't important enough to look at durring combat in my opinion.
 
+> Example of the top interface used in the shop.
+
+> ![Top Interface Example](/img/CrawlImages/03_shop_text_example.png)
+
+> Example if the bottom interface with player data.
+
+> ![Bottom Interface Example](/img/CrawlImages/11_bottom_interface_example.png)
+
 I couldn't save the settings in their own profile but the settings were remembered the next time that I opened the game. With the limited number of settings available there really isn’t a need to save them in individual profiles. because the time it takes to change them is so small.
 
 - - - - - -
@@ -117,4 +168,4 @@ If I increased the difficulty or added the last available NPC there wasn’t eno
 
 My main suggestions for improving my gameplay experience regardless of the control method I used would be the ability to tweak the aiming and ready indicators to make them easier to see. Also making the ghost I control along with the monster I can summon as a ghost stand out more than the other players' ghosts and monsters would go a long way to improving my experience.
 
-Thank you for reading my accessibility review and if you have any questions or ideas please mention them below.
+Thank you for reading my accessibility review and if you have any questions or ideas please reach out to me on [twitter](https://twitter.com/OneEyeOdie).
